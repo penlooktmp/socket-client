@@ -30,8 +30,8 @@ library test.transport;
 
 import 'package:unittest/unittest.dart';
 import 'package:unittest/html_config.dart';
-import '../packages/socket/src/transport.dart';
-import '../packages/socket/src/option.dart';
+import '../../packages/socket/src/transport.dart';
+import '../../packages/socket/src/option.dart';
 import 'dart:async';
 
 // Test abstract class
